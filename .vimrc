@@ -21,3 +21,6 @@ set ignorecase
 
 " turn off error beep sound
 set vb
+
+" display character ruler on bottom of window
+set ruler
