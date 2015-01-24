@@ -1,4 +1,4 @@
-Configuration Files
+Dotfiles
 =========
 
 My personal system configuration files, saved for reuse.
