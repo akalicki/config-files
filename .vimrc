@@ -7,6 +7,7 @@ set number
 
 " auto-indent by 4 spaces
 set shiftwidth=4
+set softtabstop=4
 
 " replace tab with spaces, except for makefiles
 set expandtab
