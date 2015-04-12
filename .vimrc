@@ -13,6 +13,9 @@ set softtabstop=4
 set expandtab
 autocmd FileType make setlocal noexpandtab
 
+" try to space out to last used indentation mark
+set autoindent
+
 " set backup directory and use it for swap files
 set backupdir^=~/.backup
 set dir^=~/.backup//
